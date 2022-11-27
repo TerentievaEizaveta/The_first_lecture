@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\bin\Debug\net7.0\The_first_lecture.exe
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\bin\Debug\net7.0\The_first_lecture.deps.json
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\bin\Debug\net7.0\The_first_lecture.runtimeconfig.json
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\bin\Debug\net7.0\The_first_lecture.dll
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\bin\Debug\net7.0\The_first_lecture.pdb
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\obj\Debug\net7.0\The_first_lecture.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\obj\Debug\net7.0\The_first_lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\obj\Debug\net7.0\The_first_lecture.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\obj\Debug\net7.0\The_first_lecture.AssemblyInfo.cs
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\obj\Debug\net7.0\The_first_lecture.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\obj\Debug\net7.0\The_first_lecture.dll
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\obj\Debug\net7.0\refint\The_first_lecture.dll
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\obj\Debug\net7.0\The_first_lecture.pdb
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\obj\Debug\net7.0\The_first_lecture.genruntimeconfig.cache
+C:\Users\User\Desktop\Домашки\C#\The_first_lecture\obj\Debug\net7.0\ref\The_first_lecture.dll
